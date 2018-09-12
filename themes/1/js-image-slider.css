@@ -10,8 +10,8 @@
 }
 
 #slider, #slider .sliderInner {
-    width:990px;height:400px;/* Must be the same size as the slider images */
-    border-radius:3px;
+    width:990px;height:430px;/* Must be the same size as the slider images */
+    border-radius:0px;
 }
 
 #slider {
